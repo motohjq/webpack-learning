@@ -1,0 +1,1 @@
+export default 'entry2_async_sync';

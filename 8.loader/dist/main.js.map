@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":";;;;;;;;AAAA,IAAIA,GAAG,GAAG,SAANA,GAAGA,CAAIC,CAAC,EAACC,CAAC;EAAA,OAAGD,CAAC,GAACC,CAAC;AAAA;AACpBC,OAAO,CAACC,GAAG,CAACJ,GAAG,CAAC,CAAC,EAAC,CAAC,CAAC,CAAC,C","sources":["webpack://8.loader/./src/index.js"],"sourcesContent":["let sum = (a,b)=>a+b;\r\nconsole.log(sum(1,2));"],"names":["sum","a","b","console","log"],"sourceRoot":""}

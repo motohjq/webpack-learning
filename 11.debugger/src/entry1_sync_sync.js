@@ -1,0 +1,1 @@
+export default 'entry1_sync_sync'
